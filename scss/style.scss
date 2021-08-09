@@ -1,0 +1,19 @@
+@import "vendor/bootstrap/functions";
+@import "vendor/bootstrap/variables";
+
+@import "customVariables";
+@import "vendor/bootstrap/mixins";
+@import "base/customMixins";
+
+@import "vendor/icomoon";
+
+@import 'base/wp-reset';
+@import "vendor/slickSlider";
+
+@import "all";
+
+/*------------------------------------------------------------------
+Animations
+-------------------------------------------------------------------*/
+@import 'animations';
+@import 'vendor/animate';
